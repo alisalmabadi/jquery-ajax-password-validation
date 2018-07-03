@@ -15,7 +15,7 @@
 			justify-content: center;
 			align-items: center;
 			background: white;
-			border-radius: 4.5px;
+			border-radius: 5px;
 			width:500px;
 			height: auto;
 			margin: 0 auto;
@@ -78,9 +78,7 @@
 
 	<img src="img/uclearn-logo.png" class="uclearn-logo">
 		<a href="http://uclean.ir/php/ajax-php-jquery-programming"><h1 class="title">آموزش ایجکس</h1></a>
-	<div style="display: flex;
-justify-content: center;
-align-items: center;">
+		<div style="display: flex;justify-content: center;align-items:center;">
 	<input type="text" class="info">
 	<input type="button" class="send" value="ارسال اطلاعات ">
 	</div>
