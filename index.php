@@ -8,7 +8,7 @@
 			}
 			a:hover{
 				color:blue;
-				transition: all ease-in-out 1s;
+				transition: all ease-in-out 1.3s;
 			}
 		.result{
 			display: flex;
