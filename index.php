@@ -15,7 +15,7 @@
 			justify-content: center;
 			align-items: center;
 			background: white;
-			border-radius: 5px;
+			border-radius: 4.5px;
 			width:500px;
 			height: auto;
 			margin: 0 auto;
