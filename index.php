@@ -3,7 +3,7 @@
 <head>
 	<title>ajax with php & jquery</title>
 	<link rel="stylesheet" src="styles/style.css" >
-	<script src="jquery.js" type="text/javascript"></script>
+	<script src="js/jquery.js" type="text/javascript"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$('.send').click(function(){
