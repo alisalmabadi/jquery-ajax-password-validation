@@ -44,15 +44,11 @@ Finished! thats it!
 
 # Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+* [JQUERY](https://github.com/jquery/jquery) - Used to send ajax request
 * [Bootstrap](https://github.com/twbs/bootstrap) - Bootstrap Used for UI
 ## Author
 
 * **Seyyed Ali Salmabadi** - *Initial work* - [Seyyed Ali](https://github.com/salis77/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
